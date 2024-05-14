@@ -19,13 +19,13 @@ Luego de clonar el repositorio, ejecute los siguientes comandos en la raíz del 
 #### Para instalar las dependencias
 
 ```
-yarn install
+npx expo install
 ```
 
 #### Para levantar el proyecto
 
 ```
-yarn start
+npx expo start
 ```
 
 ## Demo
