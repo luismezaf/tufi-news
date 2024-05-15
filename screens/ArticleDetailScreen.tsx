@@ -145,13 +145,13 @@ const styles = StyleSheet.create({
     marginTop: 8,
     right: 0,
     position: "absolute",
-    zIndex: 200,
+    zIndex: 2000,
     backgroundColor: "white",
   },
   goBackButton: {
     marginTop: 8,
     position: "absolute",
-    zIndex: 200,
+    zIndex: 2000,
     backgroundColor: "white",
   },
   seeAllBtn: {
